@@ -14,9 +14,7 @@ The Inventory Tracker application can be branched off and be used when creating 
 The Inventory Tracker will have the following features:
  - User Login: Users will have to login to make changes to the inventory, and to be able to keep track on who last edited what item.
  - Search: Users will be able to search for certain texts and/or part number from the items in the inventory to allow them to easily maneuver through the entire inventory
- - Create: Users will be able to add new items into the inventory.
- - Update: Users will be able to update existing items when new stock has arrived.
- - Delete: Users will be able to delete items from the inventory when the stocks runs out.
+ - CRUD: Users will be able to create/read/update/delete items of the inventory.
  - Change Tracker: Users will be able to view who was the last one who created/updated/deleted the items. This will either be shown on the product tracker itself, or it can also be shown as a log.
  - Low Stock Reminder: The app should be able to notify the users (probably of higher level) when an item in the inventory is currently running low on stock.
 ### Technologies
@@ -28,6 +26,6 @@ Languages and Technologies to be used:
  - Hibernate
  - Thymeleaf templates
 ### What I'll Have to Learn
-In this project, I expect to learn more about using Javascript (and possible php) to provide to make the website be/look more dynamic.
+In this project, I expect to learn more about using Javascript (and possibly Php) to make the website be/look more dynamic.
 ### Project Tracker
 https://trello.com/b/8SxXvSc6/inventory-tracker-for-liftoff
