@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Login Wireframe](https://github.com/buzzybounce/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Wireframe.pdf)
-[Index Wireframe](https://github.com/buzzybounce/liftoff-assignments/blob/master/P3-Project_Planning/Index%20Wireframe.pdf)
-[Search Wireframe](https://github.com/buzzybounce/liftoff-assignments/blob/master/P3-Project_Planning/Search%20Wireframe.pdf)
++[Login Wireframe](https://github.com/buzzybounce/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Wireframe.pdf)
++[Index Wireframe](https://github.com/buzzybounce/liftoff-assignments/blob/master/P3-Project_Planning/Index%20Wireframe.pdf)
++[Search Wireframe](https://github.com/buzzybounce/liftoff-assignments/blob/master/P3-Project_Planning/Search%20Wireframe.pdf)
 
 
 ### Project Tracker
